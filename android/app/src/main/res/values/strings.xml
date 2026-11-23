@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Music Studio AI</string>
+    <string name="title_activity_main">Music Studio AI</string>
+    <string name="package_name">com.musicstudio.ai</string>
+    <string name="custom_url_scheme">com.musicstudio.ai</string>
+</resources>
